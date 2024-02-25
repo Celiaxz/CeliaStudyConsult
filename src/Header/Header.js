@@ -18,7 +18,7 @@ function Header() {
           <span className="text-3xl text-orange-600 mr-1 pt-2">
             <ion-icon name="sync-circle"></ion-icon>
           </span>{" "}
-          Celia Study Consult{" "}
+          Onyeije{" "}
         </div>
         <div
           onClick={() => setOpen(!open)}
